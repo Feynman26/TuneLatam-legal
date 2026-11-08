@@ -25,4 +25,4 @@ Before final Play submission:
 - Review the terms, privacy and Data Safety against the final configured Android AAB and the applicable law.
 - Keep all translated pages consistent when app behavior changes.
 
-The privacy policy content is adapted from the P25-A approved public-facing privacy policy in the separate TuneLatam code repository; the commercial terms are general pre-release terms and require owner/legal review before monetized publication.
+The privacy policy and terms are aligned with the planned freemium launch contract: the Tuner remains free; an eligible 7-day (7 × 24-hour) in-app Preview starts on first Premium capability use and does not require payment or auto-convert; subscriptions (monthly, quarterly, annual) are purchased separately through Google Play. These public pages describe planned commercial behavior, not evidence that production billing is already active. Verify final SDK/data flows, owner support contact, public deletion request channel, and legal/Data Safety review before commercial release.
