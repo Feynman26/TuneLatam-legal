@@ -20,8 +20,8 @@ GitHub Pages: Settings → Pages → Deploy from a branch → main → /(root) �
 
 Before final Play submission:
 - Verify Pages is enabled and all links return HTTPS 200 without authentication.
-- Confirm the verified public support email and operator contact details in Google Play and reflect them in the legal site.
-- Verify the live account-deletion support/request channel and in-app deletion flow.
+- Published public support email: `tunelatam.support@gmail.com`. Verify a real inbound email/reply from an independent sender and monitor the inbox regularly; publishing a mailto link does not itself prove deliverability. Align Google Play's public contact with this address.
+- Test the public account-deletion email request from a browser without the app, verify account ownership securely, record request processing, and validate the actual Supabase ratings-account deletion flow before production release.
 - Review the terms, privacy and Data Safety against the final configured Android AAB and the applicable law.
 - Keep all translated pages consistent when app behavior changes.
 
